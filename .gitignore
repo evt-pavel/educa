@@ -1,2 +1,3 @@
 .venv/
 .env
+educa/db.sqlite3
